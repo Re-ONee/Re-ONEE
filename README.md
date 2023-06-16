@@ -1,6 +1,6 @@
 # Ramez Mahmoud
 
-**`Your Friendly neighbourhood Craftman`**
+**`Your Friendly Neighborhood Craftman`**
 
 Starting my carreer as a developer.
 
@@ -26,5 +26,5 @@ Starting my carreer as a developer.
 <br />
 
 ### 📊 Stats
-https://www.codewars.com/users/Re-ONee/badges/large
+![Codewars](https://github.r2v.ch/codewars?user=Re-ONee)
 #
