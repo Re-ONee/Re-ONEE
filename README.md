@@ -1,8 +1,8 @@
 # Ramez Mahmoud
 
-**`Your Friendly Neighborhood Craftman`**
+**`Your Friendly Neighborhood Craftsman`**
 
-Starting my carreer as a developer.
+Starting my career as a developer.
 
    <p align="left">
       <a href="https://github.com/Re-ONee?tab=followers">
