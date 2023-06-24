@@ -4,6 +4,12 @@
 
 Starting my career as a developer.
 
+###You can find me there too-
+
+<a href="https://www.linkedin.com/in/ramez-hamad-69a32520b/" target="_blank" rel="noopener noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" align="center" width="40px" alt="linkedin"/>
+</a>
+
    <p align="left">
       <a href="https://github.com/Re-ONee?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Re-ONee?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
