@@ -4,11 +4,13 @@
 
 Starting my career as a developer.
 
-###You can find me there too-
+# You can find me there too
 
 <a href="https://www.linkedin.com/in/ramez-hamad-69a32520b/" target="_blank" rel="noopener noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" align="center" width="40px" alt="linkedin"/>
 </a>
+
+---
 
    <p align="left">
       <a href="https://github.com/Re-ONee?tab=followers">
