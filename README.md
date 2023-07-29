@@ -2,7 +2,7 @@
 
 **`Your Friendly Neighborhood Craftsman`**
 
-Starting my career as a developer.
+Front-End Developer.
 
 # You can find me there too
 
