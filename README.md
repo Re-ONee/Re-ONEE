@@ -1,7 +1,7 @@
 # Ramez Mahmoud
 
 **`Your Friendly Neighborhood Craftsman`**
-<a href="https://app.daily.dev/Roza"><img src="https://api.daily.dev/devcards/32bf29b6603d4c0894dfb20018d3e4df.png?r=hxx" width="100" alt="Ramez Mahmoud's Dev Card"/></a>
+<a href="https://app.daily.dev/Roza"><img src="https://api.daily.dev/devcards/32bf29b6603d4c0894dfb20018d3e4df.png?r=hxx" width="250" alt="Ramez Mahmoud's Dev Card"/></a>
 Front-End Developer.
 
 # You can find me there too
