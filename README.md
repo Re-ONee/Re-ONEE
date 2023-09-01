@@ -1,9 +1,9 @@
 # Ramez Mahmoud
 
 **`Your Friendly Neighborhood Craftsman`**
-
-Front-End Developer.
 <a href="https://app.daily.dev/Roza"><img src="https://api.daily.dev/devcards/32bf29b6603d4c0894dfb20018d3e4df.png?r=hxx" width="400" alt="Ramez Mahmoud's Dev Card"/></a>
+Front-End Developer.
+
 # You can find me there too
 
 <a href="https://www.linkedin.com/in/ramez-hamad-69a32520b/" target="_blank" rel="noopener noreferrer">
