@@ -9,7 +9,7 @@ Front-End Developer.
 <a href="https://www.linkedin.com/in/ramez-hamad-69a32520b/" target="_blank" rel="noopener noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" align="center" width="40px" alt="linkedin"/>
 </a>
-<a href="https://www.buymeacoffee.com/ramezm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" align="center" height="41px" width="174px" alt="Buy Me A Coffee" ></a>
+<a href="https://www.buymeacoffee.com/ramezm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" padding-left="8px" align="center" height="40px" width="174px" alt="Buy Me A Coffee" ></a>
 
 ---
 
